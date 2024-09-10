@@ -1,4 +1,4 @@
-# Code for "Transformer Chain for Out-of-distribution Detection on Tabular Data"
+# Code for "Out-of-Distribution Detection by Regaining Lost Clues"
 
 ## requirement
 * conda install pytorch=1.1
